@@ -1,0 +1,37 @@
+[33mcommit 6e578bd3efb6f1101bcc1874ae309ef8a8c5c7a1[m
+Author: sebastiansergiu <sebastianss25@gmail.com>
+Date:   Wed Mar 29 16:28:32 2017 +0000
+
+    added a text line in index.html
+
+
+[33mcommit 1ca0d36f124c361be09d220a0fdecf29456b64a5[m
+Author: sebastiansergiu <sebastianss25@gmail.com>
+Date:   Wed Mar 29 15:57:30 2017 +0000
+
+    first commit
+
+ create mode 100644 html/bmw.jpg
+ create mode 100644 html/css/font-awesome.css
+ create mode 100644 html/css/font-awesome.min.css
+ create mode 100644 html/fonts/FontAwesome.otf
+ create mode 100644 html/fonts/fontawesome-webfont.eot
+ create mode 100644 html/fonts/fontawesome-webfont.svg
+ create mode 100644 html/fonts/fontawesome-webfont.ttf
+ create mode 100644 html/fonts/fontawesome-webfont.woff
+ create mode 100644 html/fonts/fontawesome-webfont.woff2
+ create mode 100644 html/home.png
+ create mode 100644 html/huawei.jpg
+ create mode 100644 html/index2.html
+ create mode 100644 html/index3.html
+ create mode 100644 html/index4.html
+ create mode 100644 html/index5.html
+ create mode 100644 html/school.jpg
+ create mode 100644 html/ss.png
+ create mode 100644 html/style.css
+ create mode 100644 models/Article.js
+ create mode 100644 models/Articles.js
+ create mode 100644 models/Login.js
+ create mode 100644 pages/index.html
+ create mode 100644 pages/index1.html
+ create mode 100644 pages/login.html
