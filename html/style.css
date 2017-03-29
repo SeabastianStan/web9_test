@@ -1,0 +1,231 @@
+
+body {
+    background-color: #e9e9e9;
+    width: 100%
+}
+    .image2 img, .image img, .car img {
+    width: auto;
+    margin: 50px auto;
+    background-repeat: no-repeat;
+    display: block;
+    border: 1px solid grey;
+    
+    
+}
+.image h1 {
+    margin: 2% 27%;
+} 
+
+.image article {
+    width: auto;
+    margin:3% 27%;
+    color: #252839;
+    background-color: white;
+    padding: 10px;
+}
+
+.article-date {
+    color: #fff;
+    background-color: #252839;
+    padding: 8px;
+    position: absolute;
+    top: auto;
+    left: auto;
+    box-shadow: 1px 0 5px -2px #333;
+}
+* {
+    box-sizing: border-box;
+}
+
+.article-date .day{
+    font-size: 24px;
+    font-style: normal;
+    font-family: sans-serif;
+    display:block;
+    text-align: center;
+}
+.article-date .date {
+    font-size: 11px;
+    font-style: normal;
+    font-family: sans-serif;
+}
+
+
+footer {
+    text-align: center;
+    position: fixed;
+    background-color: #0f1011;
+    color: #999;
+    width: 1px auto;
+    padding: 10px;
+    left: 0;
+    right: 0;
+    bottom: 0px;
+}
+.menu {
+    background-color: black;
+    border:3px solid #f0a311;
+    padding: 10px 20px;
+    position: fixed;
+    text-align: center;
+    overflow: inherit;
+    width:  1px auto;
+    left: 0;
+    right: 0;
+    top: 0;
+    font-stretch: normal;
+}
+.menu a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    font-family: sans-serif;
+    font-size: 15px;
+}
+.menu a:hover {
+    color: #f0a311;
+}
+.h1 {
+    text-align: center;
+    color: black;
+    border:1px solid;
+    font-size: x-large;
+    margin: 1px;
+    font-stretch: normal;
+    
+}
+.video iframe {
+    width: auto;
+    margin:auto;
+    display: block;
+    padding-bottom: 5%;
+    
+}
+
+
+/* auto */
+
+
+
+.article-dates {
+    color: #fff;
+    background-color: #252839;
+    padding: 8px;
+    position: absolute;
+    top:60px;
+    left: 470px;
+    box-shadow: 1px 0 5px -2px #333;
+    top:auto;
+    left:auto;
+}
+* {
+    box-sizing: border-box;
+}
+
+.article-dates .day{
+    font-size: 24px;
+    font-style: normal;
+    font-family: sans-serif;
+    display:block;
+    text-align: center;
+}
+.article-dates .date {
+    font-size: 11px;
+    font-style: normal;
+    font-family: sans-serif;
+}
+/*.car {
+    background-color: white;
+}*/
+.car h1 {
+    margin: 2% 27%;
+}
+.car article {
+    width: auto;
+    margin:3% 27%;
+    color: #252839;
+    background-color: white;
+    padding: 10px;
+}
+.videos iframe {
+    display: block;
+    width: auto;
+    margin: auto;
+    padding-bottom: 5%;
+}  
+
+/* bloguri */
+
+
+.blogroll ul {
+    
+    text-align: center;
+    letter-spacing: 4px;
+    width: auto;
+    margin:3% 27%;
+    
+}
+.blogroll a {
+    background-color: grey;
+    text-decoration: none;
+    color: white;
+    margin-right: 10px 10px;
+    padding: 5px;
+}
+.blogroll li {
+    display: inline-table;
+    padding-bottom: 20px;
+} 
+.blogroll h2 {
+    margin:3% 27%;
+}
+.foot {
+    width: 100%;
+    position: fixed;
+    text-align: center;
+    background-color: #0f1011;
+    color: #999;
+    width: 1px auto;
+    padding: 10px;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
+
+/* contact */
+
+
+.contact {
+    font-family: sans-serif;
+    background-color: white;
+    margin: 50px auto;
+    padding: 30px;
+    border: 1px solid grey;
+    width: 50%;
+}
+.contact h2 {
+    
+}
+.contact p {
+    font-family: sans-serif;
+    color: #252839;
+}
+
+/* despre mine */
+
+.info {
+    font-family: sans-serif;
+    background-color: white;
+    margin: 50px auto;
+    padding: 30px;
+    border: 1px solid grey;
+    width: 50%;
+    
+}
+.info p {
+     font-family: sans-serif;
+    color: #252839;
+}
+
+    
+    
